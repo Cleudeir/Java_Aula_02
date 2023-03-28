@@ -16,4 +16,12 @@
 
 Saídas: https://github.com/Cleudeir/Java_Aula_02/tree/main/src/public/output
 
-![](https://raw.githubusercontent.com/Cleudeir/Java_Aula_02/main/src/public/output/12%20Years%20a%20Slave.png)
+
+![](https://raw.githubusercontent.com/Cleudeir/Java_Aula_02/main/src/public/output/Fight%20Club.png)
+
+![](https://raw.githubusercontent.com/Cleudeir/Java_Aula_02/main/src/public/output/Toy%20Story%203.png)
+
+![](https://raw.githubusercontent.com/Cleudeir/Java_Aula_02/main/src/public/output/The%20Wizard%20of%20Oz.png)
+
+
+

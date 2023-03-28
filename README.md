@@ -15,3 +15,5 @@
 
 
 Saídas: https://github.com/Cleudeir/Java_Aula_02/tree/main/src/public/output
+
+![](https://raw.githubusercontent.com/Cleudeir/Java_Aula_02/main/src/public/output/12%20Years%20a%20Slave.png)

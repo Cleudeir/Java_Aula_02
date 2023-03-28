@@ -30,7 +30,7 @@ public class App {
             } else if (rank < 250) {
                 description = "ehhhh...";
             }
-            gerador.create(inputStream, item.get("title"), description);
+            gerador.create(inputStream, item.get("title").replace(":",""), description);
          }  
     }
 }

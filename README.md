@@ -13,6 +13,10 @@
 
 5- ✔️ Colocar uma imagem de você que está fazendo esse curso sorrindo, fazendo joinha e fazer com que o texto da figurinha seja personalizado de acordo com as classificações do IMDB.
 
+## Otimização
+
+✔️ Substituição do link da imagem do IMDB requerindo o tamanho ideal do "Sticker" usando ".V1_UX512_CR0,3,512,704_AL.jpg".
+
 
 Saídas: https://github.com/Cleudeir/Java_Aula_02/tree/main/src/public/output
 

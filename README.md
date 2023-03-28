@@ -20,9 +20,9 @@ https://github.com/Cleudeir/Java_Aula_01
 
 ✔️ Substituição do link da imagem do IMDB requerindo o tamanho ideal do "Sticker" usando ".V1_UX512_CR0,3,512,704_AL.jpg".
 
+## Resultados
 
 Saídas: https://github.com/Cleudeir/Java_Aula_02/tree/main/src/public/output
-
 
 ![](https://raw.githubusercontent.com/Cleudeir/Java_Aula_02/main/src/public/output/Fight%20Club.png)
 

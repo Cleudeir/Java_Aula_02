@@ -48,6 +48,7 @@ public class stickerGenerator {
             int heightText = metrics.getHeight();
             graphics.drawString(description, width/2 - widthText/2, (int) (height + Increment/4 + heightText/2));
 
+            
             Color green = Color.GREEN;
             graphics.setColor(green);
             int outlineWidth = 2; 
@@ -55,18 +56,19 @@ public class stickerGenerator {
             graphics.setStroke(stroke);
             var fontBorder = new Font("Impact" ,Font.BOLD, (int) Increment);
             FontRenderContext frc = graphics.getFontRenderContext();
-            TextLayout layout = new TextLayout(description, fontBorder, frc);
+            TextLayout layout = new TextLayout(description, fontBorder, frc) ;
             int textX = (width - (int)layout.getBounds().getWidth()) / 2;
             int textY = (int) (height + Increment/4 + heightText/2);
             graphics.setColor(green);
             graphics.drawString(description, textX, textY);
 
+            String pathOutput = "src/public/output/";
             try {
-                ImageIO.write(newImage, "png", new File( "src/public/output/"+ name + ".png"));
+                ImageIO.write(newImage, "png", new File( pathOutput + name + ".png"));
             } catch (Exception e) {
-                Path path = Paths.get("src/public/output/");
+                Path path = Paths.get(pathOutput);
                 Files.createDirectory(path);
-                ImageIO.write(newImage, "png", new File( "src/public/output/"+ name + ".png"));
+                ImageIO.write(newImage, "png", new File( pathOutput + name + ".png"));
             }
             
         } catch (IOException e) {           

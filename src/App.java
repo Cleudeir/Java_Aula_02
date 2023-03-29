@@ -27,10 +27,13 @@ public class App {
                 description = "Muito F*d*";
             } else if (rank < (250*2/3) ) {
                 description = "Mais ou menos";
-            } else if (rank < 250) {
+            } else {
                 description = "ehhhh...";
             }
-            gerador.create(inputStream, item.get("title").replace(":",""), description);
-         }  
+            String name = item.get("title");
+            String nameNormalize = name.replaceAll("[^a-zA-Z0-9\\s]", "").replaceAll(" ", "_");
+            System.out.println(nameNormalize);
+            gerador.create(inputStream, nameNormalize, description);
+         }
     }
 }

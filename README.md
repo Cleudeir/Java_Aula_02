@@ -24,11 +24,11 @@ https://github.com/Cleudeir/Java_Aula_01
 
 Saídas: https://github.com/Cleudeir/Java_Aula_02/tree/main/src/public/output
 
-![](https://raw.githubusercontent.com/Cleudeir/Java_Aula_02/main/src/public/output/Fight%20Club.png)
+![](https://raw.githubusercontent.com/Cleudeir/Java_Aula_02/main/src/public/output/Fight_Club.png)
 
-![](https://raw.githubusercontent.com/Cleudeir/Java_Aula_02/main/src/public/output/Toy%20Story%203.png)
+![](https://raw.githubusercontent.com/Cleudeir/Java_Aula_02/main/src/public/output/Toy_Story_3.png)
 
-![](https://raw.githubusercontent.com/Cleudeir/Java_Aula_02/main/src/public/output/The%20Wizard%20of%20Oz.png)
+![](https://raw.githubusercontent.com/Cleudeir/Java_Aula_02/main/src/public/output/The_Wizard_of_Oz.png)
 
 
 ## Imersão Alura Aula Posterior
